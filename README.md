@@ -10,7 +10,7 @@ The script uses various Chrome options to improve privacy and security, includin
 - Bypassing most captchas that are not IP-based.
 
 # Installation/Build
-Head over to releases and install anonchrome.zip, this is standalone version made with Nuitka.
+Head over to releases and install anonchrome.exe, this is standalone version made with Nuitka.
 All you need to do then is run anonchrome.exe - and the program will run!
 OR, you can build the program if you'd like:
 - Install Python (version 3.6 or later).
