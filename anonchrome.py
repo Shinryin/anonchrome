@@ -49,5 +49,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error: {e}")
     finally:
-        input("Press Enter to close the browser...")
+        input("Press any key to close the browser...")
         driver.quit()
